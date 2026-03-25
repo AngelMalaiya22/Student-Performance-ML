@@ -16,7 +16,12 @@ This project predicts student final grades using machine learning models.
 
 \- Random Forest
 
-
+**Work Flow**
+1. Data Cleaning
+2. Feature Encoding
+3. Feature Scaling
+4. Model Training
+5. Evaluation
 
 **Evaluation Metrics**
 
