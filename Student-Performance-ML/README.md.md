@@ -2,6 +2,7 @@
 
 📌 Project Overview This project predicts student final grades (G3) using machine learning models.
 
+
 📂 Dataset The dataset contains student-related information such as:
 
 Study time
