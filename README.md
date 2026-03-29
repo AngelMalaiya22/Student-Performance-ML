@@ -44,7 +44,7 @@ Bar graph used to compare model performance.
 
 🚀 Future Improvements
 - Taking input of from user and predicting marks
-- Deploy it to streamlit
 - Hyperparameter tuning
 - More feature selection
 - Try advanced models
+- Deploy it to streamlit
