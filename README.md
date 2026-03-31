@@ -1,50 +1,25 @@
-# Student-Performance-ML
-# Student Performance Prediction
+Student Marks Prediction using Regression
 
-📌 Project Overview
-This project predicts student final grades (G3) using machine learning models.
+* This project predicts student marks using machine learning regression techniques. It serves as a learning checkpoint to understand how ML models work on real data.
 
-📂 Dataset
-The dataset contains student-related information such as:
-- Study time
-- Family background
-- Previous grades (G1, G2)
-- Absences
-- Lifestyle factors
+Tech Stack : 
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
-⚙️ Workflow
-1. Data Cleaning
-2. Feature Encoding (get_dummies)
-3. Feature Scaling (StandardScaler)
-4. Train-Test Split
-5. Model Training
-6. Model Evaluation
+  📊 What I Learned
+- Data preprocessing and cleaning  
+- Feature selection  
+- Linear Regression, Decision Tree, Random Forest  
+- Model evaluation techniques
 
-🤖 Models Used
-- Linear Regression
-- Decision Tree
-- Random Forest
+  📈 Results
+  The model was able to predict student marks with reasonable accuracy using regression techniques.
+  <img width="1335" height="798" alt="Screenshot 2026-03-31 204906" src="https://github.com/user-attachments/assets/89b2f3b0-0e64-4872-8a33-f58759db102f" />
 
-📊 Evaluation Metrics
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- R² Score
-
-🏆 Results
-Linear Regression performed best with:
-- R² Score ≈ 0.79
-
-📈 Visualization
-Bar graph used to compare model performance.
-
-🧠 Learning Outcome
-- Understood ML pipeline
-- Learned feature preprocessing
-- Compared multiple models
-
-🚀 Future Improvements
-- Taking input of from user and predicting marks
-- Hyperparameter tuning
-- More feature selection
-- Try advanced models
-- Deploy it to streamlit
+  🔗 Future Improvements
+- Add user input interface for predictions  
+- Improve model accuracy  
+- Deploy as a web app  
